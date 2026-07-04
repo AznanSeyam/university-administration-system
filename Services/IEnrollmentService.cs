@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UniversityManagementSystem.Models;
-
 namespace UniversityManagementSystem.Services
 {
     public interface IEnrollmentService
